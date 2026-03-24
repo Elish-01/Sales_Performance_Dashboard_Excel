@@ -45,6 +45,12 @@ The Dataset Includes
 
 ## Dashboard Preview
 <img width="1366" height="768" alt="Screenshot 2026-03-19 210721" src="https://github.com/user-attachments/assets/cf8051b0-f0e7-4bc3-8a26-d7d268ed81df" />
+<img width="1366" height="768" alt="Screenshot 2026-03-19 210746" src="https://github.com/user-attachments/assets/e4c625e8-787d-4c01-ad5d-a32ee45e3f9b" />
+<img width="1366" height="768" alt="Screenshot 2026-03-19 210802" src="https://github.com/user-attachments/assets/3f74fcf6-80fd-45df-ac79-29fe3341214f" />
+<img width="1366" height="768" alt="Screenshot 2026-03-22 053013" src="https://github.com/user-attachments/assets/06b8dbb5-272c-44f8-afd7-5216096c71ff" />
+<img width="1366" height="768" alt="Screenshot 2026-03-22 173001" src="https://github.com/user-attachments/assets/d45e5dbc-4e81-4956-a68d-f8eb24729256" />
+<img width="1268" height="191" alt="Screenshot 2026-03-22 173033" src="https://github.com/user-attachments/assets/7f747be9-df40-4b34-8155-3757ac59a636" />
+<img width="1366" height="768" alt="Screenshot 2026-03-23 160845" src="https://github.com/user-attachments/assets/a20dd59a-ce6f-4a92-b346-a2dbcde4b12d" />
 
 # Author
 ☻ Eli- Aspiring Data Analyst
